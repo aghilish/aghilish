@@ -1,4 +1,4 @@
-### Hello world... 👋
+### Hello World... 👋
 
 - My name is Shahrooz Aghili. I'm a Platform Engineer based in Frankfurt, Germany.
 - 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, with 12+ years of experience as a Software Engineer, Researcher and Technical lead.
