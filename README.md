@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shahrooz
 
 [![Linkedin: aghilish](https://img.shields.io/badge/-aghilish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aghilish/)](https://www.linkedin.com/in/aghilish/)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/aghilish)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/aghilish)](https://x.com/aghilish)
 [![YouTube: aghilish](https://img.shields.io/youtube/channel/views/UCYLdtJWGJbcXI2uMkSzUMpg)](https://youtube.com/@aghilish)
 
 Nice to meet you! I am a Senior Solutions Architect at Cloud Transformation and System Engineering (Deloitte Consulting).
