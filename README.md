@@ -4,7 +4,7 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/aghilish)](https://x.com/aghilish)
 [![YouTube: aghilish](https://img.shields.io/youtube/channel/views/UCYLdtJWGJbcXI2uMkSzUMpg)](https://youtube.com/@aghilish)
 
-Nice to meet you! I am a Senior Solutions Architect at Cloud Transformation and System Engineering (Deloitte Consulting).
+Nice to meet you! I am a Freelance Cloud Native and Platform Engineering Consultant.
 
 I am also an open-source and cloud-native enthusiast. 
 
